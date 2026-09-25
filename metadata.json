@@ -1,0 +1,6 @@
+{
+  "name": "LinguaPulse",
+  "description": "Production-ready, real-time multilingual chat application with passwordless OTP auth and instant neural cross-language translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
